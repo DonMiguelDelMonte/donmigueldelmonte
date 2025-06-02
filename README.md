@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miguel Del Monte</h1>
 <h3 align="center">I'm passionate about technology and artificial intelligence. I'm from Mexico</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donmigueldelmonte" alt="donmigueldelmonte" /></a> </p>
 
 - 🔭 I’m currently working on **SSO Agency as Co-Founder and CTO**
 
